@@ -6,7 +6,7 @@
 	"storages": {},
 	"plugins": {},
 	"actions": {
-		"redirect": [{"name": "demo_redirect"}]
+		"redirect": []
 	},
 	"solvers": {}
 }
